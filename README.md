@@ -1,59 +1,95 @@
-```
-d e v i l   u s e r
-```
- 
-> *i don't build toward anything.*
-> *i dissolve into the process*
-> *and see what's left.*
- 
+<div align="center">
+
+# devil user
+
+> *the signal is weak, but still there.*
+
 <br>
----
- 
-somewhere between *it works* and *i have no idea why.*
- 
-i write code the way you listen to a song on repeat —
-not to understand it. just to feel where it breaks.
- 
-this is not a portfolio. there is no roadmap.
-only experiments, half-finished things, and static.
- 
-<br>
----
- 
+
+```text
+somewhere between static and silence
 ```
-// current frequencies
- 
-PHP / Laravel    → building things i'll refactor at 2am
-Vue / TypeScript → making the frontend slightly less broken
-SQL              → whispering to databases
-Node.js          → async everything, regret later
-???              → whatever sounded interesting last night
-```
- 
+
+</div>
+
 ---
- 
-```
-// commit log  (internal)
- 
-  03:14    broke something that was already broken
-  03:31    added a comment that says "fix later"
-  04:02    fixed it. differently. worse probably.
-  04:17    opened a new file to avoid the old one
-  04:49    it works. no further questions.
-```
- 
+
+i write things.
+
+sometimes they become programs.
+
+sometimes they become unfinished folders
+i refuse to delete.
+
+most repositories here are just traces of whatever
+held my attention long enough to leave a mark.
+
 ---
- 
-<br>
-> i am not here to ship.
-> i am here to understand the shape of things
-> before they disappear.
- 
-<br>
-*curiosity is the only architecture that doesn't collapse.*
- 
-<br>
+
+### current frequencies
+
+```text
+C           ▓▓▓▓▓▓▓▓▓▓▓▓
+C++         ▓▓▓▓▓▓▓▓▓▓▓░
+Java        ▓▓▓▓▓▓▓▓▓░░░
+Linux       ▓▓▓▓▓▓▓▓▓▓▓▓
+???         ▓▓▓▓▓▓▓▓▓▓▓▓
+
+everything else drifts in and out
+like radio stations at night
+```
+
 ---
- 
-<div align="right"><sub>◈ &nbsp; no roadmap · no readme version · signal fading &nbsp; ◈</sub></div>
- 
+
+### notes
+
+```text
+03:12 AM
+
+found an old project.
+
+couldn't remember writing it.
+
+read the source code.
+
+felt like reading a letter
+from someone i used to know.
+```
+
+---
+
+### philosophy
+
+code is temporary.
+
+most ideas are temporary too.
+
+the interesting part is the moment
+between having the idea
+and forgetting why it mattered.
+
+that's what i try to keep.
+
+---
+
+```text
+repositories may contain:
+
+• unfinished thoughts
+• strange experiments
+• unnecessary complexity
+• fragments of curiosity
+• occasional working software
+```
+
+---
+
+<div align="center">
+
+*"nothing lasts long enough to become complete."*
+
+<br>
+
+◈ signal fading ◈
+
+</div>
